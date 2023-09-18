@@ -37,3 +37,11 @@ Services:
 - Promote reusability and testability since they can be easily mocked during testing.
 In summary, NestJS follows the principle of separation of concerns, where modules organize your application, 
 controllers handle HTTP requests, and services encapsulate business logic. This separation makes your code more maintainable, testable, and scalable.
+
+
+
+
+
+
+
+

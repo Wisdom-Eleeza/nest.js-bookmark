@@ -12,6 +12,6 @@ export class PrismaService extends PrismaClient {
         },
       },
     });
-    // console.log(config.get('DATABASE_URL'));    npm i --save-dev prisma@latest @prisma/client@latest 
+    // console.log(config.get('DATABASE_URL'));    npm i --save-dev prisma@latest @prisma/client@latest
   }
 }
